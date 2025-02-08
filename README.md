@@ -9,5 +9,6 @@ This repository contains basic coding practice files, including Java programs.
 - **operator**
 - **Number**
 - **patterns**
+- **stringProblems**
 
 
