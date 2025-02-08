@@ -6,6 +6,8 @@ This repository contains basic coding practice files, including Java programs.
 ## Contents
 - **Arrays Practice**
 - **Java Basics**
+- **operator**
+- **Number**
 
 ## How to Use
 1. Clone the repository:  
